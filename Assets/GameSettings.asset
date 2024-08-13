@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2555aa2cf534b9d90f63a59b5c59495, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  tabs:
+  - name: Images
+    tabContent: {fileID: 6991956453571950571, guid: 9ac5976732d3042d1ae272cfac206c7e, type: 3}
+  - name: Tab 2
+    tabContent: {fileID: 764117034504822689, guid: e2b958ec9aafd424ca0c82060a81de1b, type: 3}
+  - name: Tab 3
+    tabContent: {fileID: 6847138313110045994, guid: 4c43f0c68c21f49fb8bf53d91d0a2dc9, type: 3}
+  - name: Tab 4
+    tabContent: {fileID: 6847138313110045994, guid: 14359293066a548a58d3efe602da4f50, type: 3}
+  - name: Tab 5
+    tabContent: {fileID: 6847138313110045994, guid: 35bda3a926c9c4abbad5cb3cdac61e67, type: 3}
+  levels:
+  - name: Level 1
+    levelSprite: {fileID: 21300000, guid: 6b027a72b758749b8bddbcd10bb93b67, type: 3}
+  - name: Level 2
+    levelSprite: {fileID: 21300000, guid: 577a4c4ea83c741bbbb26223ca65047c, type: 3}
+  - name: Level 3
+    levelSprite: {fileID: 21300000, guid: 57705f69d3e6042dca334072a6a09be4, type: 3}
